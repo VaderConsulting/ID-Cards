@@ -1,6 +1,6 @@
 # ID Cards
 
-Chips, Bits and Bytes VB6 ID Cards printer for HMAS ARUNTA gangway and visitor passes. Choose barcode pass type (Gangway Pass, Escorted Visitor, Unescorted Visitor, Location, or Other), enter service/pass number and name on `frmBarcode`, and print via `barpic.ocx` on `frmPrint` (caption "HMAS ARUNTA"). Project `Project1` (`ID Cards.vbp`); startup form `frmBarcode`.
+Chips, Bits and Bytes VB6 ID Cards printer for HMAS ARUNTA gangway and visitor passes. Choose barcode pass type (Gangway Pass, Escorted Visitor Pass, Unescorted Visitor Pass, Location, or Other), enter service number and name on `frmBarcode`, and print via `barpic.ocx` (`BarPic.cbbBarPic`) on `frmPrint` (caption "HMAS ARUNTA"). Project `Project1` (`ID Cards.vbp`); startup form `frmBarcode`.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
